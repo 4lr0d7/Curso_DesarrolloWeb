@@ -1,0 +1,18 @@
+					VOCABULARIO WEB
+IP = Identificador numérico de una página web, es único y representa la dirección donde 
+está el ordenador que contiene esa página web.
+
+Dominio Web / URL: Uniform Resource Locator. Es el nombre asociado a la IP que utilizamos para solicitar
+recursos, en nuestro caso un sitio web.
+
+DNS: Domain Name System. Es un servidor cuya principal función es traducir el nombre de dominio a su
+identificador único.
+
+Sitio Web: Es un conjunto de uno o varios recursos web alojados en el mismo dominio. Conjunto de 
+archivos HTML
+
+Servidor Web: Es un ordenador cuyo objetivo es servir recursos web.
+
+Hosting: Es el almacenamiento del servidor web. El disco duro donde el servidor web almacena recursos.
+
+Petición: Es la acción de pedir recursos a un servidor.
