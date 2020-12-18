@@ -1,0 +1,17 @@
+¿Qué es HTML?
+Es un lenguaje de marcado de hipertexto (Hyper Text Markup Language)
+HTML no es un lenguaje de programación, es un lenguaje de estructura (o etiquetas)
+Es la base con la que están creadas TODAS las páginas web del mundo
+Cada etiqueta le dice al navegador y a los motores de búsqueda cuál es la estructura de los
+documentos, elementos, organización, etc.
+
+HISTORIA DE HTML
+1989 - Inicio de su desarrollo (Creación de la comunicación por la red)
+1991 - Lanzamiento de la web (conjunto de documentos) (se basa en 3 conceptos: HTTP, HTML y URL)
+1992 - Lanzamiento de HTML (Nació de SMGL. Creado por Tim Bernes Lee)
+1994 - Creación de la W3C (Consorcio que define los estándares de la web)
+1998 - HTML 4 (Versión que más duró de HTML)
+1999 - HTML 4.1 - XHTML [XML X HTML] (Actualización del estándar HTML4)
+2004 - Creación de la WHATWG
+2008 - HTML5 (Lanzado por WHATWG de forma independiente)
+2014 - Estándar de HTML5 (Lanzado por W3C de forma oficial)
