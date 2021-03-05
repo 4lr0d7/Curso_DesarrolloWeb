@@ -53,3 +53,35 @@ let username = "fzst";
 
 //Se recomienda usar comentarios para recordar cosas para 
 // el futuro, para uno mismo u otra persona
+
+//OPERADORES
+let numberOne = 60;
+let numberTwo = 100;
+let result = numberOne + numberTwo;
+console.log(result);
+// let result = numberOne - numberTwo;
+// console.log(result);
+// let result = numberOne / numberTwo;
+// console.log(result);
+// let result = numberOne * numberTwo;
+// console.log(result);
+// Sirve para comparar datos
+console.log(numberOne > numberTwo);
+console.log(numberOne >= numberTwo);
+console.log(numberOne < numberTwo);
+console.log(numberOne <= numberTwo);
+console.log(numberOne == numberTwo);
+console.log(numberOne != numberTwo);
+
+
+let nameFirst = "John";
+let lastName1 = "Carter";
+let completeName = nameFirst + lastName1;
+console.log(completeName);
+
+//CONDICIONALES
+if (3 === 2){
+    console.log("sí")
+} else{
+    console.log("Depende")
+}
